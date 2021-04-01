@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character location.name="table" location.x="0" location.y="0" posZ="0" rotate="0" roll="0">
+  <data name="character">
+    <data name="image">
+      <data type="image" name="imageIdentifier"></data>
+    </data>
+    <data name="common">
+      <data name="name">人形サンプル１</data>
+      <data name="size">1</data>
+    </data>
+    <data name="detail">
+      <data name="情報">
+        <data name="PL"></data>
+        <data name="享年"></data>
+        <data name="暗示"></data>
+        <data name="ポジション"></data>
+        <data name="メインクラス"></data>
+        <data name="サブクラス"></data>
+        <data type="numberResource" currentValue="0" name="武装">9</data>  
+        <data type="numberResource" currentValue="0" name="変異">9</data>  
+        <data type="numberResource" currentValue="0" name="改造">9</data>  
+        <data name="初期配置"></data>
+        <data name="最大行動値">6</data>
+        <data type="note" name="プロフ、メモ"></data>
+      </data>
+      <data name="記憶のカケラ">
+        <data type="numberResource" currentValue="2" name="所持数">6</data>
+        <data type="note" name="種類"></data>
+      </data>
+      <data name="未練">
+        <data name="たからもの への 依存">
+          <data type="numberResource" currentValue="3" name="">4</data>
+        </data>
+        <data name="への">
+          <data type="numberResource" currentValue="3" name="">4</data>
+        </data>
+        <data name="への">
+          <data type="numberResource" currentValue="3" name="">4</data>
+        </data>
+        <data name="への">
+          <data type="numberResource" currentValue="3" name="">4</data>
+        </data>
+        <data name="への">
+          <data type="numberResource" currentValue="3" name="">4</data>
+        </data>
+      </data>
+      <data name="スキル">
+        <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+      <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+        <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+        <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+        <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+        <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+        <data name="">
+          <data type="note" name=""></data>
+          <data type="numberResource" currentValue="1" name="">1</data>
+        </data>
+      </data>
+        <data name="パーツ・頭">
+          <data name="のうみそ">
+            <data type="note" name="">最大行動値＋２</data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="めだま">
+            <data type="note" name="">最大行動値＋１</data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="あご">
+            <data type="note" name="">アクション／２／０　肉弾攻撃１</data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+        </data>
+        <data name="パーツ・腕">
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+        </data>
+        <data name="パーツ・胴">
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+        </data>
+        <data name="パーツ・脚">
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+          <data name="">
+            <data type="note" name=""></data>
+            <data type="numberResource" currentValue="2" name="">2</data>
+          </data>
+      </data>
+      
+    </data>
+  </data>
+</character>
